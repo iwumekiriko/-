@@ -1,6 +1,6 @@
 [???]
 
-[symbol_01](symbol_01.png)
+![symbol_01.png](symbol_01.png)
 
 [VALUE]
 39
